@@ -2,6 +2,7 @@
     Private Sub KeluarToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles KeluarToolStripMenuItem.Click
         End
     End Sub
+    'Hello World
     Sub Terkunci()
         LoginToolStripMenuItem.Enabled = True
         LogoutToolStripMenuItem.Enabled = False
